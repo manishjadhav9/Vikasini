@@ -81,6 +81,17 @@ All tools and services used are open source or have generous free tiers. Easily 
 ---
 
 ## 🌟 Built For
-AIRAVAT 2.0 Hackathon  
-Social Good + Gen AI Track  
-Team: [Your Team Name Here]
+AIRAVAT 2.0 Hackathon (SPIT)
+Social Good Track  
+Team: Leviathan
+
+---
+
+## Contributors
+## 🤝 Contributors & Team Members
+| Name                | LinkedIn                                             | Github                                            |
+|---------------------|-----------------------------------------------------|-----------------------------------------------------|
+| Manish Jadhav | [LinkedIn Profile](https://www.linkedin.com/in/manishjadhav9/) |[Github Profile](https://github.com/manishjadhav9) |
+| Adwait Shesh | [LinkedIn Profile](https://www.linkedin.com/in/adwait-shesh-175aa6311/)   |[Github Profile](https://github.com/AdwaitShesh/) |
+| Mrunmayi Ambhaikar | [LinkedIn Profile](https://www.linkedin.com/in/mrunmayi-ambhaikar/) |[Github Profile](https://github.com/MrunmayiA/) |
+| Aniket Bhangale | [LinkedIn Profile](https://www.linkedin.com/in/aniketbhangale/)        |[Github Profile](https://github.com/anikett10/) |
