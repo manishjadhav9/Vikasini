@@ -24,7 +24,7 @@ A multilingual, AI-powered learning and employment platform designed to upskill 
   - Translation across Indian languages (e.g., Hindi, Marathi, Bengali)
 
 ### 🧠 AI Features
-- *OpenAI GPT-3.5 / 4 (or TinyLLaMA)* – personalized learning paths, AI feedback, CV generation
+- *OpenAI GPT-3.5 / 4, TinyLLaMA, Ollama* – personalized learning paths, AI feedback, CV generation
 - *FAISS / Rule-Based Filters* – skill-based job/freelance matching
 - *Sentiment Analysis (VADER / TextBlob)* – emotion-aware mentoring
 
