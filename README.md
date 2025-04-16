@@ -7,7 +7,7 @@ A multilingual, AI-powered learning and employment platform designed to upskill 
 ## 🔧 Tech Stack
 
 ### 🖥 Frontend
-- *Next.js (V0)* – for responsive, modern UI (User + Admin)
+- *Next.js* – for responsive, modern UI (User + Admin)
 - *Tailwind CSS + Framer Motion* – for styling and animations
 
 ### 🗃 Backend
