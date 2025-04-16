@@ -1,0 +1,80 @@
+{
+  "path_title": "Mrunmayi's Digital Empowerment Pathway: Data Entry Specialist",
+  "path_description": "This personalized learning path will equip Mrunmayi with essential digital literacy and data entry skills to pursue various administrative and data-focused roles.",
+  "milestones": [
+    {
+      "title": "Foundational Digital Literacy",
+      "description": "Mastering basic computer operations, internet navigation, and online safety.",
+      "skills": [
+        "Computer basics (hardware/software)",
+        "Internet browsing and search",
+        "Email communication",
+        "Online safety and security"
+      ],
+      "timeframe": "2 weeks",
+      "project": "Create a personal email account, send professional emails, and research online resources relevant to data entry jobs."
+    },
+    {
+      "title": "Introduction to Data Entry and Typing Skills",
+      "description": "Developing accurate and efficient typing skills and understanding basic data entry principles.",
+      "skills": [
+        "Typing speed and accuracy",
+        "Numeric keypad proficiency",
+        "Data formatting and validation",
+        "Basic spreadsheet usage (e.g., Google Sheets, Microsoft Excel)"
+      ],
+      "timeframe": "3 weeks",
+      "project": "Complete online typing tests to improve speed and accuracy, create a sample data entry spreadsheet for a fictional business."
+    },
+    {
+      "title": "Intermediate Data Entry and Spreadsheet Skills",
+      "description": "Building proficiency in spreadsheet software and applying data entry techniques for various business needs.",
+      "skills": [
+        "Advanced spreadsheet functions (formulas, sorting, filtering)",
+        "Data cleaning and manipulation",
+        "Creating charts and graphs",
+        "Data validation and error handling"
+      ],
+      "timeframe": "4 weeks",
+      "project": "Design and populate a comprehensive spreadsheet for inventory management or customer data, including data analysis and visualization."
+    },
+    {
+      "title": "Data Integrity and Database Fundamentals",
+      "description": "Learning about data integrity principles and basic database concepts for effective data management.",
+      "skills": [
+        "Understanding data integrity and its importance",
+        "Basic database terminology (tables, fields, records)",
+        "Data entry into online forms and databases",
+        "Data backup and recovery"
+      ],
+      "timeframe": "3 weeks",
+      "project": "Create a simple database using online tools like Google Forms or Airtable to manage information for a community project or a small business."
+    },
+    {
+      "title": "Professional Communication and Soft Skills",
+      "description": "Developing essential soft skills for workplace success, including communication and collaboration.",
+      "skills": [
+        "Effective written and verbal communication",
+        "Professional email etiquette",
+        "Teamwork and collaboration",
+        "Time management and organization"
+      ],
+      "timeframe": "2 weeks",
+      "project": "Participate in mock interviews and practice professional communication scenarios, collaborate with peers on a data entry project."
+    }
+  ],
+  "career_opportunities": [
+    {
+      "title": "Data Entry Operator",
+      "description": "Entering data into various systems and ensuring its accuracy and integrity for businesses and organizations."
+    },
+    {
+      "title": "Administrative Assistant",
+      "description": "Providing administrative support, including data entry, scheduling, and communication, in various office settings."
+    },
+    {
+      "title": "Freelance Data Entry Specialist",
+      "description": "Offering data entry services remotely to clients worldwide, providing flexibility and independence."
+    }
+  ]
+}

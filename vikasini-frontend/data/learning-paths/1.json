@@ -1,0 +1,80 @@
+{
+  "path_title": "Priya's Digital Empowerment Pathway",
+  "path_description": "This personalized learning journey empowers Priya to build a strong foundation in digital literacy, data entry, and communication, opening doors to various digital career opportunities.",
+  "milestones": [
+    {
+      "title": "Foundational Digital Literacy",
+      "description": "Mastering basic computer skills and navigating the digital world.",
+      "skills": [
+        "Basic computer operations",
+        "Internet browsing and search",
+        "Email communication",
+        "Online safety and security"
+      ],
+      "timeframe": "4 weeks",
+      "project": "Create a personal email account, practice sending emails, and research a topic of interest online, summarizing findings in a document."
+    },
+    {
+      "title": "Essential Data Entry Techniques",
+      "description": "Developing proficiency in accurate and efficient data entry practices.",
+      "skills": [
+        "Data entry speed and accuracy",
+        "Working with spreadsheets (e.g., Google Sheets, Microsoft Excel)",
+        "Data formatting and validation",
+        "Keyboard shortcuts"
+      ],
+      "timeframe": "6 weeks",
+      "project": "Create a spreadsheet to track household expenses for a month, including formulas for calculations and data validation rules."
+    },
+    {
+      "title": "Effective Written Communication",
+      "description": "Enhancing written communication skills for professional contexts.",
+      "skills": [
+        "Grammar and punctuation",
+        "Professional email writing",
+        "Report writing",
+        "Creating presentations"
+      ],
+      "timeframe": "5 weeks",
+      "project": "Write a formal email requesting information about a digital skills training program and create a short presentation summarizing key takeaways from a recent online article."
+    },
+    {
+      "title": "Confident Verbal Communication",
+      "description": "Building confidence in verbal communication for interviews and workplace interactions.",
+      "skills": [
+        "Active listening",
+        "Clear articulation",
+        "Non-verbal communication",
+        "Interview skills"
+      ],
+      "timeframe": "4 weeks",
+      "project": "Participate in mock interviews with peers and practice delivering a short presentation on a personal achievement or skill."
+    },
+    {
+      "title": "Advanced Data Management",
+      "description": "Expanding data entry skills to include database management and data analysis basics.",
+      "skills": [
+        "Introduction to databases",
+        "Basic data analysis techniques",
+        "Data cleaning and organization",
+        "Data visualization"
+      ],
+      "timeframe": "6 weeks",
+      "project": "Create a simple database to manage customer information for a small business and generate basic reports using data analysis tools."
+    }
+  ],
+  "career_opportunities": [
+    {
+      "title": "Data Entry Operator",
+      "description": "Entering data into computer systems accurately and efficiently for various organizations."
+    },
+    {
+      "title": "Administrative Assistant",
+      "description": "Providing administrative support including data entry, communication, and office management tasks."
+    },
+    {
+      "title": "Virtual Assistant",
+      "description": "Offering remote administrative, technical, or creative assistance to clients, utilizing digital skills and communication abilities."
+    }
+  ]
+}

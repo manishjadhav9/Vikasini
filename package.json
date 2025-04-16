@@ -1,0 +1,21 @@
+{
+  "name": "airavat_leviathan_manish-shashikant-jadhav",
+  "version": "1.0.0",
+  "description": "A multilingual, AI-powered learning and employment platform designed to upskill underprivileged women and connect them to remote job/freelance opportunities. Built using open-source tools, with voice-based vernacular support and gamified learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IEEECSAiravat/Airavat_Leviathan_Manish-Shashikant-Jadhav.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IEEECSAiravat/Airavat_Leviathan_Manish-Shashikant-Jadhav/issues"
+  },
+  "homepage": "https://github.com/IEEECSAiravat/Airavat_Leviathan_Manish-Shashikant-Jadhav#readme"
+}

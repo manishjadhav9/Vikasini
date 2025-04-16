@@ -1,0 +1,37 @@
+Connecting to database at: D:\Airavat_Leviathan_Manish-Shashikant-Jadhav\vikasini-backend\data\vikasini.db
+Connected to the SQLite database.
+
+--- Registered Users ---
+{
+  "id": 1,
+  "name": "Admin User",
+  "email": "admin@vikasini.org",
+  "role": "admin",
+  "preferred_language": "english",
+  "profile_image": null,
+  "xp_points": 0,
+  "created_at": "2025-04-12 16:41:19",
+  "updated_at": "2025-04-12 16:41:19"
+}
+-------------------
+{
+  "id": 2,
+  "name": "Priya Sharma",
+  "email": "user@vikasini.org",
+  "role": "user",
+  "preferred_language": "english",
+  "profile_image": null,
+  "xp_points": 0,
+  "created_at": "2025-04-12 16:41:19",
+  "updated_at": "2025-04-12 16:41:19"
+}
+-------------------
+Total users: 2
+
+--- User Interests ---
+User ID 2: digital_literacy, communication, data_entry
+
+--- User Skills ---
+User ID 2: excel (level: 50), typing (level: 70), communication (level: 60)
+
+Database query complete.

@@ -1,0 +1,76 @@
+{
+  "path_title": "Priya A Shesh's Digital Skills Empowerment Path",
+  "path_description": "This personalized learning journey is designed to equip Priya A Shesh with in-demand digital skills in Social Media Management and Basic Programming, enabling her to pursue exciting career opportunities in India's growing digital economy.",
+  "milestones": [
+    {
+      "title": "Social Media Marketing Fundamentals for Priya",
+      "description": "This beginner course introduces Priya to the core concepts of social media marketing, focusing on content creation, audience engagement, and platform-specific best practices.",
+      "interest_area": "Social Media Management",
+      "level": "Beginner",
+      "skills": [
+        "Content Planning",
+        "Community Building",
+        "Social Media Analytics",
+        "Platform Management"
+      ],
+      "timeframe": "4 weeks",
+      "project": "Develop a social media strategy for a local business in India, including a content calendar and engagement plan."
+    },
+    {
+      "title": "Advanced Social Media Strategies for Priya",
+      "description": "Building on Priya's foundational knowledge, this advanced course delves into paid advertising, influencer marketing, and data-driven campaign optimization.",
+      "interest_area": "Social Media Management",
+      "level": "Advanced",
+      "skills": [
+        "Paid Social Media Advertising",
+        "Influencer Marketing",
+        "Campaign Analytics and Optimization",
+        "Social Listening"
+      ],
+      "timeframe": "6 weeks",
+      "project": "Run a simulated paid social media campaign with a defined budget and target audience, analyzing the results and optimizing for improved performance."
+    },
+    {
+      "title": "Introduction to Python Programming for Priya",
+      "description": "This beginner course provides Priya with a solid foundation in Python, covering basic syntax, data types, and control flow.",
+      "interest_area": "Basic Programming",
+      "level": "Beginner",
+      "skills": [
+        "Python Syntax",
+        "Data Types and Variables",
+        "Control Flow",
+        "Basic Data Structures"
+      ],
+      "timeframe": "6 weeks",
+      "project": "Build a simple text-based game in Python, demonstrating the use of variables, loops, and conditional statements."
+    },
+    {
+      "title": "Data Analysis with Python for Priya",
+      "description": "This advanced course builds on Priya's Python skills, focusing on data manipulation, analysis, and visualization using popular libraries like Pandas and Matplotlib.",
+      "interest_area": "Basic Programming",
+      "level": "Advanced",
+      "skills": [
+        "Data Manipulation with Pandas",
+        "Data Visualization with Matplotlib",
+        "Data Cleaning and Preprocessing",
+        "Exploratory Data Analysis"
+      ],
+      "timeframe": "8 weeks",
+      "project": "Analyze a real-world dataset using Python, creating visualizations and generating insights relevant to a chosen domain."
+    }
+  ],
+  "career_opportunities": [
+    {
+      "title": "Social Media Manager",
+      "description": "Manage social media presence for businesses, creating engaging content and building online communities."
+    },
+    {
+      "title": "Digital Marketing Specialist",
+      "description": "Develop and execute comprehensive digital marketing strategies across various channels, including social media and search engine optimization."
+    },
+    {
+      "title": "Data Analyst",
+      "description": "Collect, analyze, and interpret data to extract meaningful insights and support business decision-making."
+    }
+  ]
+}

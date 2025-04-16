@@ -1,0 +1,104 @@
+{
+  "path_title": "Neha Kumar's Digital Skills Development Path",
+  "path_description": "A personalized learning journey for Neha Kumar focusing on Digital Literacy, Data Entry, Communication Skills to build professional skills for remote work opportunities.",
+  "milestones": [
+    {
+      "title": "Digital Literacy Fundamentals",
+      "description": "Learn the essential basics of Digital Literacy to build a solid foundation.",
+      "interest_area": "Digital Literacy",
+      "level": "Beginner",
+      "skills": [
+        "Basic concepts",
+        "Fundamental tools",
+        "Essential practices",
+        "Core principles"
+      ],
+      "timeframe": "3 weeks",
+      "project": "Create a basic Digital Literacy portfolio piece to demonstrate your skills"
+    },
+    {
+      "title": "Advanced Digital Literacy",
+      "description": "Build on your Digital Literacy knowledge with advanced techniques and practical applications.",
+      "interest_area": "Digital Literacy",
+      "level": "Advanced",
+      "skills": [
+        "Advanced techniques",
+        "Professional tools",
+        "Real-world applications",
+        "Problem-solving"
+      ],
+      "timeframe": "4 weeks",
+      "project": "Develop a comprehensive Digital Literacy project that showcases your advanced capabilities"
+    },
+    {
+      "title": "Data Entry Fundamentals",
+      "description": "Learn the essential basics of Data Entry to build a solid foundation.",
+      "interest_area": "Data Entry",
+      "level": "Beginner",
+      "skills": [
+        "Basic concepts",
+        "Fundamental tools",
+        "Essential practices",
+        "Core principles"
+      ],
+      "timeframe": "3 weeks",
+      "project": "Create a basic Data Entry portfolio piece to demonstrate your skills"
+    },
+    {
+      "title": "Advanced Data Entry",
+      "description": "Build on your Data Entry knowledge with advanced techniques and practical applications.",
+      "interest_area": "Data Entry",
+      "level": "Advanced",
+      "skills": [
+        "Advanced techniques",
+        "Professional tools",
+        "Real-world applications",
+        "Problem-solving"
+      ],
+      "timeframe": "4 weeks",
+      "project": "Develop a comprehensive Data Entry project that showcases your advanced capabilities"
+    },
+    {
+      "title": "Communication Skills Fundamentals",
+      "description": "Learn the essential basics of Communication Skills to build a solid foundation.",
+      "interest_area": "Communication Skills",
+      "level": "Beginner",
+      "skills": [
+        "Basic concepts",
+        "Fundamental tools",
+        "Essential practices",
+        "Core principles"
+      ],
+      "timeframe": "3 weeks",
+      "project": "Create a basic Communication Skills portfolio piece to demonstrate your skills"
+    },
+    {
+      "title": "Advanced Communication Skills",
+      "description": "Build on your Communication Skills knowledge with advanced techniques and practical applications.",
+      "interest_area": "Communication Skills",
+      "level": "Advanced",
+      "skills": [
+        "Advanced techniques",
+        "Professional tools",
+        "Real-world applications",
+        "Problem-solving"
+      ],
+      "timeframe": "4 weeks",
+      "project": "Develop a comprehensive Communication Skills project that showcases your advanced capabilities"
+    }
+  ],
+  "career_opportunities": [
+    {
+      "title": "Remote Data Entry Professional",
+      "description": "Work with organizations to manage and process data remotely."
+    },
+    {
+      "title": "Digital Assistant",
+      "description": "Provide administrative and technical support for businesses online."
+    },
+    {
+      "title": "Content Creator",
+      "description": "Create digital content for websites, social media, and other platforms."
+    }
+  ]
+}
